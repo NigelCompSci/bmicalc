@@ -145,4 +145,3 @@ class _BMICalculatorState extends State<BMICalculator> {
     );
   }
 }
-
